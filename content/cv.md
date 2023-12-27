@@ -62,7 +62,7 @@ Teaching Assistant, Materials Engineering
 ### Journal Publications
 
 - Wyatt, B. C. et al. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023) doi:10.1021/acs.nanolett.2c04287.
-- Nykiel, K. & Strachan, A. High-Throughput Density Functional Theory Screening of Double Transition Metal MXene Precursors. http://arxiv.org/abs/2307.14250 (2023) doi:10.48550/arXiv.2307.14250.
+- Nykiel, K. & Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 (2023).
 
 ### Undergraduate Thesis
 
