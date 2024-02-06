@@ -1,8 +1,8 @@
 ---
-title: Folder
+title: strachan lab
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/strachan-lab/atomate2-setup
 sidebar:
   open: true
 ---
