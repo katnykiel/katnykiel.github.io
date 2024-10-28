@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+documentation specifically relevant to the strachan lab at purdue
