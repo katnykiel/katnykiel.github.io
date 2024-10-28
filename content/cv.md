@@ -1,7 +1,12 @@
+---
+title:  Curriculum vitae
+toc: true
+---
+
 # Katharine Nykiel
 
 Phone: (440) 231-3586  
-Email: [knykiel@purdue.edu](knykiel@purdue.edu )
+Email: [knykiel@purdue.edu](knykiel@purdue.edu)
 
 ## Education
 
@@ -57,7 +62,7 @@ Teaching Assistant, Materials Engineering
 - Taught Materials Processing Lab, an undergraduate course covering the following topics: processing of metals, ceramics, and polymers  
 - Led lab sessions and coordinated student final design projects
 
-# TODO: add mentoring experience.
+TODO: add mentoring experience.
 
 ## Publications
 
@@ -70,7 +75,7 @@ Teaching Assistant, Materials Engineering
 
 - Nykiel, K. & Windl, W. Identification of Materials with Axis-Dependent Conduction Polarity. (2021).
 
-# TODO: add skills
+TODO: add skills
 
 ## Presentations and Invited Lectures
 

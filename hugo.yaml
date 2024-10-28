@@ -18,13 +18,13 @@ markup:
 
 menu:
   main:
-    - name: about
+    - name: About
       pageRef: /about
       weight: 1
-    - name: contact ↗
+    - name: Contact ↗
       url: "mailto:knykiel@purdue.edu"
       weight: 2
-    - name: search
+    - name: Search
       weight: 3
       params:
         type: search
