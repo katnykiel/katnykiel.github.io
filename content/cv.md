@@ -57,6 +57,8 @@ Teaching Assistant, Materials Engineering
 - Taught Materials Processing Lab, an undergraduate course covering the following topics: processing of metals, ceramics, and polymers  
 - Led lab sessions and coordinated student final design projects
 
+# TODO: add mentoring experience.
+
 ## Publications
 
 ### Journal Publications
@@ -67,6 +69,8 @@ Teaching Assistant, Materials Engineering
 ### Undergraduate Thesis
 
 - Nykiel, K. & Windl, W. Identification of Materials with Axis-Dependent Conduction Polarity. (2021).
+
+# TODO: add skills
 
 ## Presentations and Invited Lectures
 
