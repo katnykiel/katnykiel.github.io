@@ -3,8 +3,6 @@ title: About
 type: about
 ---
 
-Kat Nykiel is a PhD candidate in Dr. Alejandro Strachan's lab at Purdue University. Her research interests include high-throughput density functional theory, semi-supervised machine learning, and 2D materials.
+Hi there! I'm a PhD candidate in Dr. Alejandro Strachan's lab at Purdue University. My research interests include high-throughput density functional theory, local large-language models, and 2D materials. Outside of research, I enjoy reading, making specialty coffee, and playing cello.
 
-Outside of research, Kat enjoys reading, coffee, and playing cello.
-
-![kat nykiel pfp](profile.png?width=200px)
+![kat nykiel pfp](profile.png?width=100px)

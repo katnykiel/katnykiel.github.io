@@ -1,6 +1,7 @@
 ---
 title:  Hello World!
 toc: false
+breadcrumbs: false
 date: 2024-10-28
 ---
 
