@@ -64,14 +64,10 @@ MaRDA Best Graduate Student Poster Award
 
 ### Journal Publications
 
-- Wyatt, B. C. et al. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023) doi:10.1021/acs.nanolett.2c04287.
+- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., & Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023) doi:10.1021/acs.nanolett.2c04287.
 - **Nykiel, K**. & Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 (2023).
-- Chen, C.-C., Appleton, R. J., **Nykiel, K**., Mishra, S. & Yao, S. How accurate is DFT at high pressures?
+- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., & Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 (2025).
 - Lee, B. H., **Nykiel, K**., Hallberg, A. E., Rider, B. & Strachan, A. Thermodynamic Fidelity of Generative Models for Ising System. Preprint at https://doi.org/10.48550/arXiv.2412.03764 (2024).
-
-### Undergraduate Thesis
-
-- **Nykiel, K**. & Windl, W. Identification of Materials with Axis-Dependent Conduction Polarity. (2021).
 
 ## Presentations and Invited Lectures
 
