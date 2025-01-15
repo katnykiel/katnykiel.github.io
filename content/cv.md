@@ -1,21 +1,24 @@
 ---
 title:  Curriculum Vitae
 toc: true
+author: Kat Nykiel
 ---
 
-# Kat Nykiel
+## Contact Info
 
 Phone: (440) 231-3586
 Email: [knykiel@purdue.edu](knykiel@purdue.edu)
 
 ## Education
 
-Ph.D. Purdue University, Materials Engineering (in progress)
+**Ph.D. Materials Engineering, Purdue University (in progress)**
+Aug. 2021 - Present
 
-- Committee: Dr. Alejandro Strachan (chair), Dr. Arun Mannodi, Dr. Babak Anasori, Dr. Rahim Rahimi
+- Committee: Dr. Alejandro Strachan, Dr. Arun Mannodi, Dr. Babak Anasori, Dr. Rahim Rahimi
 - Concentration in Computational Engineering
 
-B.S. Ohio State University, Materials Science | Applied Physics
+**B.S. Materials Science & Applied Physics, Ohio State University**
+Aug. 2017 - May 2021
 
 - Magna Cum Laude  
 - Honors Research Distinction
@@ -24,22 +27,22 @@ B.S. Ohio State University, Materials Science | Applied Physics
 
 ### Graduate Research, Purdue University  
 
-Aug 2021-Present  
+Aug. 2021 - Present  
 Advisor: Dr. Alejandro Strachan
 
-- Implemented high-throughput density functional theory workflows for elastic constants, phonons, and equations of state
-- Studied semi-supervised prediction of double-transition metal MXene stability 
-- Developed a suite of workflows for Quantum ESPRESSO in nanoHUB
+- Implemented high-throughput density functional theory workflows for elastic constants, phonons, electronic bandstructure, convex hull stability, and equations of state
+- Studied stability and synthesizability of MXenes, their precursors, and MXene-derived materials
+- Developed a set of workflows for Quantum ESPRESSO in nanoHUB
 
 ### Undergraduate Research, Ohio State University 
 
-Jan 2019 – May 2021  
+Jan. 2019 – May 2021  
 Advisor: Dr. Hamish Fraser
 
 - Developed a MATLAB-based app for stereographic projection and trace analysis
 - Performed SEM with OSU’s Center for Electron Microscopy and Analysis
 
-Jan 2020 – May 2021  
+Jan. 2020 – May 2021  
 Advisor: Dr. Wolfgang Windl
 
 - Studied goniopolar materials by calculating band structures of TMDs using VASP  
@@ -47,16 +50,30 @@ Advisor: Dr. Wolfgang Windl
 
 ## Teaching Experience
 
-### Teaching Assistant, Materials Engineering
+**Graduate Teaching Assistant, Purdue University**
+Jan. 2023 - May 2023  
 
-January 2023 to May 2023  
-
-- Taught Materials Processing Lab, an undergraduate course covering the following topics: processing of metals, ceramics, and polymers  
+- Taught Materials Processing Lab, an undergraduate course covering the processing of metals, ceramics, and polymers  
 - Led lab sessions and coordinated student final design projects
+
+## Mentoring Experience
+
+**Graduate Student Mentor, MNT-CURN**
+May 2023 - Sept. 2023, May 2024 - Sept. 2024
+
+- Mentor three undergraduates through the Micro Nano Technology Collaborative Undergraduate Research Network (MNT-CURN)
+- Used statistical natural langugage processing and large language models to analyze trends of expert selection in news articles
+
+**Graduate Student Mentor, Purdue University**
+May 2022 - Dec. 2022
+
+- Mentored one high school student / later undergrad through Purdue University
+- Simulated 2D ising model of ferromagnetism using markov chain monte carlo, later trained generative models on ising trajectories
 
 ## Honors and Awards
 
-MaRDA Best Graduate Student Poster Award  
+**MaRDA Best Graduate Student Poster Award**
+Mar. 2023
 
 - Awarded for presenting at the Spring 2023 Materials Research Data Alliance Conference
 
@@ -71,12 +88,12 @@ MaRDA Best Graduate Student Poster Award
 
 ## Presentations and Invited Lectures
 
-Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” EPW School on Electron-Phonon Physics, June 2024, Austin, TX.
+Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” EPW School on Electron-Phonon Physics, Jun. 2024, Austin, TX.
 
-Oral Presentation, “Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” Materials Research Society, April 2024, Seattle, WA.
+Oral Presentation, “Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” Materials Research Society, Apr. 2024, Seattle, WA.
 
 Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials at Purdue Symposium, May 2023, West Lafayette, IN.
 
-Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Society, April 2023, San Francisco, CA.
+Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Society, Apr. 2023, San Francisco, CA.
 
-Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Data Alliance Conference, March 2023, Virtual.
+Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Data Alliance Conference, Mar. 2023, Virtual.
