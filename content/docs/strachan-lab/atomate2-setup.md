@@ -28,6 +28,8 @@ The atomate2 installation guide is fairly robust; go follow those instructions. 
 
 If you don't already have access, ask Kat (or another group member) about getting access to VASP in our HPC environment.
 
+A VASP 5.4.4 executable is available at `/depot/prism/apps/vasp_std`
+
 ### MongoDB
 
 If you're not familiar with MongoDB already, it is a database that stores information as *documents*. In atomate2, a document often corresponds with a VASP run, an intermediate script, or some post-processing analysis. It's worth getting some basic familiarity with the MongoDB syntax, as it is the main way to query documents in the database. The idea here is that instead of keeping track of runs through messy file structures in temporary scratch directories across different HPC systems, you can just query for the run you want based on the run details (system of interest, calculation type, user-supplied tags).
@@ -37,6 +39,8 @@ While you could self-host your own MongoDB, it's a lot easier to use the infrast
 ### Conda
 
 Unfortunately, the atomate2 library is a mess of dependencies, and installation can be a bit tricky. Follow the atomate2 guide as far as you can, but expect additional issues to arise with dependencies. You will likely need to modify some of the codebase; so again, ask Kat as needed :)
+
+There is a conda env available at `/depot/prism/data/knykiel/autoplex` with atomate2 and its utilities installed, as of January 2025
 
 ### Config files
 
@@ -121,3 +125,10 @@ There are some scripts floating around Kat's system that are used for mass submi
 - adding a metadata tag to each FW with `fw.spec.update` can help with querying later
 - you can apply INCAR updates with [powerups](https://github.com/materialsproject/atomate2/blob/8b1ee044674bb75ee9cd025d9ffc6d883f772fa5/src/atomate2/vasp/powerups.py#L2)
 - launching with `qlaunch -r rapidfire -m N` is a convenient system to launch `N` jobs at once, and queue new jobs as they finish. This can be done with SLURM to run for weeks.
+
+## TODOs
+
+- Make a GitHub repository of the atomate2 setup for cloning without the secrets.
+- Figure out environment variables and PMG_POTCAR_PATH.
+- Clarify CPU vs GPU compiled versions of VASP.
+- Run everything inside of an Apptainer?
