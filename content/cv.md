@@ -4,11 +4,6 @@ toc: true
 author: Kat Nykiel
 ---
 
-## Contact Info
-
-Phone: (440) 231-3586
-Email: [knykiel@purdue.edu](knykiel@purdue.edu)
-
 ## Education
 
 **Ph.D. Materials Engineering, Purdue University (in progress)**
