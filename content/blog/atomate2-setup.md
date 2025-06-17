@@ -1,6 +1,8 @@
 ---
-title: atomate2 setup
-prev: /docs/strachan-lab
+title: Setting up atomate2 
+toc: true
+breadcrumbs: false
+date: 2024-02-05
 ---
 
 This page serves as a guiding resource for [atomate2](https://github.com/materialsproject/atomate2) in the Strachan Lab. As of now, it is intended to be a companion to the installation guide at [materials project](https://materialsproject.github.io/atomate2/user/install.html). If there exists demand for a more comprehensive guide, that can be done later.

@@ -1,5 +1,8 @@
 ---
 title: Ovito on GPU Nodes
+toc: true
+breadcrumbs: false
+date: 2025-01-27
 ---
 
 When rendering visualizations of large systems in our group, we often use [Ovito](https://www.ovito.org/), running on an Intel Mac in our office space. This seems a little strange, given that we have large amounts of high-performance computing resources at our disposal. Here's a quick demo of how we can set up Ovito to run on a remote system. More generally, this is a demo of how to install any tricky-to-compile software, whether it be due to permission errors, missing dependencies, or out-of-date distributions.

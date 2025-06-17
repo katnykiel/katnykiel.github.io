@@ -14,5 +14,5 @@ Welcome to my website! Check out the areas below to learn more about me.
   <!-- {{< card link="https://aerat-org.github.io/blog/" title="Blog" icon="rss" >}} -->
   {{< card link="blog" title="Blog" icon="rss" >}}
   {{< card link="https://scholar.google.com/citations?user=HsRRwskAAAAJ&hl=en&oi=sra" title="Publications" icon="newspaper" >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="citations" title="Citation Web" icon="book-open" >}}
 {{< /cards >}}

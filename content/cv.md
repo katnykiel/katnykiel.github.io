@@ -4,13 +4,15 @@ toc: true
 author: Kat Nykiel
 ---
 
+[Download PDF version](cv.pdf)
+
 ## Education
 
 **Ph.D. Materials Engineering, Purdue University (in progress)**
 Aug. 2021 - Present
 
 - Committee: Dr. Alejandro Strachan, Dr. Arun Mannodi, Dr. Babak Anasori, Dr. Rahim Rahimi
-- Concentration in Computational Engineering
+- Specialization in Computational Science and Engineering
 
 **B.S. Materials Science & Applied Physics, Ohio State University**
 Aug. 2017 - May 2021
@@ -25,9 +27,10 @@ Aug. 2017 - May 2021
 Aug. 2021 - Present  
 Advisor: Dr. Alejandro Strachan
 
-- Implemented high-throughput density functional theory workflows for elastic constants, phonons, electronic bandstructure, convex hull stability, and equations of state
-- Studied stability and synthesizability of MXenes, their precursors, and MXene-derived materials
-- Developed a set of workflows for Quantum ESPRESSO in nanoHUB
+- Established group infrastructure for state-of-the-art high-throughput density functional theory (DFT) workflows, with over 90,000 completed calculations stored in a central database
+- Implemented workflows for geometric relaxation, elastic constants, phonons, electronic band structure, convex hull stability, FTIR, equations of state, and machine-learned interatomic potential training
+- Studied stability and synthesizability of MXenes, their precursors, as well as layered and high-entropy carbides
+- Developed and deployed Quantum ESPRESSO workflows on nanoHUB, supporting over 200 users and enabling more than 120,000 simulations
 
 ### Undergraduate Research, Ohio State University 
 
@@ -35,7 +38,7 @@ Jan. 2019 – May 2021
 Advisor: Dr. Hamish Fraser
 
 - Developed a MATLAB-based app for stereographic projection and trace analysis
-- Performed SEM with OSU’s Center for Electron Microscopy and Analysis
+- Performed SEM with OSU's Center for Electron Microscopy and Analysis
 
 Jan. 2020 – May 2021  
 Advisor: Dr. Wolfgang Windl
@@ -56,7 +59,7 @@ Jan. 2023 - May 2023
 **Graduate Student Mentor, MNT-CURN**
 May 2023 - Sept. 2023, May 2024 - Sept. 2024
 
-- Mentor three undergraduates through the Micro Nano Technology Collaborative Undergraduate Research Network (MNT-CURN)
+- Mentored three undergraduates through the Micro Nano Technology Collaborative Undergraduate Research Network (MNT-CURN)
 - Used statistical natural langugage processing and large language models to analyze trends of expert selection in news articles
 
 **Graduate Student Mentor, Purdue University**
@@ -76,19 +79,21 @@ Mar. 2023
 
 ### Journal Publications
 
-- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., & Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023) doi:10.1021/acs.nanolett.2c04287.
-- **Nykiel, K**. & Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 (2023).
-- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., & Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 (2025).
 - Lee, B. H., **Nykiel, K**., Hallberg, A. E., Rider, B. & Strachan, A. Thermodynamic Fidelity of Generative Models for Ising System. Preprint at https://doi.org/10.48550/arXiv.2412.03764 (2024).
+- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., & Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 (2025).
+- **Nykiel, K**. & Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 (2023).
+- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., & Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023) doi:10.1021/acs.nanolett.2c04287.
 
 ## Presentations and Invited Lectures
 
-Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” EPW School on Electron-Phonon Physics, Jun. 2024, Austin, TX.
+Oral Presentation, "Synthesis of Novel Rare-Earth MXenes Using Density Functional Theory and Optimal Experiment Design,” Materials Research Society, Apr. 2025, Seattle, WA.
 
-Oral Presentation, “Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics,” Materials Research Society, Apr. 2024, Seattle, WA.
+Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," EPW School on Electron-Phonon Physics, Jun. 2024, Austin, TX.
 
-Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials at Purdue Symposium, May 2023, West Lafayette, IN.
+Oral Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," Materials Research Society, Apr. 2024, Seattle, WA.
 
-Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Society, Apr. 2023, San Francisco, CA.
+Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials at Purdue Symposium, May 2023, West Lafayette, IN.
 
-Oral Presentation, “Semi-Supervised Prediction of Double-Transition Metal MXene Stability,” Materials Research Data Alliance Conference, Mar. 2023, Virtual.
+Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Society, Apr. 2023, San Francisco, CA.
+
+Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Data Alliance Conference, Mar. 2023, Virtual.
