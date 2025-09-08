@@ -1,13 +1,15 @@
 ---
-title: Linux in Academia, an Experiment
+title: One Month with Linux in Academia, an Experiment
 toc: true
 breadcrumbs: false
-date: 2024-09-08
+date: 2025-09-08
 ---
 
 Throughout the four years of my PhD in computational materials science at Purdue University, I've spent absurd amounts of time with my computer. A back-of-the-envelope calculation would suggest it's been over 80,000 hours! Knowing that I'll be spending this inordinate amount of time this way, and motivated by [this XKCD comic](https://xkcd.com/1205/), I've invested a lot of time reducing friction in my computer use. To name a few of these optimizations: adopting [alternative keyboard layouts](https://colemak.com/), learning [competitive typing](https://monkeytype.com/profile/allokate), using a package manager, and using tiling window managers have all saved massive amounts of time. However, like many computer geeks before me, I repeatedly find myself asking one question over and over: 
 
-> Which operating system should I use?
+{{< callout >}}
+  Which operating system should I use?
+{{< /callout >}}
 
 The choice of operating system (OS), the base layer of my computer, underpins the entire system I use to interact with it. Arguably, it's been more debilitating to switch between OSes than it was to switch from QWERTY to COLEMAK. I've tried various operating systems the last four years, but I've never switched to Linux as my daily driver. Each time I try, I'm quickly tempted back by the convenience of macOS. To remedy this, I tried switching to Linux completely for a month, to find out what works, what doesn't, and if it's possible to survive using Linux in a competitive academic setting.
 
