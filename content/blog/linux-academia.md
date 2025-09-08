@@ -11,6 +11,12 @@ Throughout the four years of my PhD in computational materials science at Purdue
 
 The choice of operating system (OS), the base layer of my computer, underpins the entire system I use to interact with it. Arguably, it's been more debilitating to switch between OSes than it was to switch from QWERTY to COLEMAK. I've tried various operating systems the last four years, but I've never switched to Linux as my daily driver. Each time I try, I'm quickly tempted back by the convenience of macOS. To remedy this, I tried switching to Linux completely for a month, to find out what works, what doesn't, and if it's possible to survive using Linux in a competitive academic setting.
 
+{{< callout type="warning" >}}
+   [I'd just like to interject for a moment. What you're referring to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.](https://stallman-copypasta.github.io/))
+{{< /callout >}}
+
+
+
 ## Previous experiences with Windows/macOS/Linux
 
 Like most engineers, I started graduate school using Windows. It works, mostly! And if you've never explored outside it, there's not much incentive to change. I used Windows for the first year of my PhD, tinkering with a Linux dual-boot for a while but never using it for my research. A week before my preliminary exams, my Windows laptop suddenly started crashing constantly, and I bought an M2 MacBook for something that *just works* to pass my exam. It worked beautifully!
@@ -25,8 +31,9 @@ This idea was motivated by the [Old Computer Challenge](https://occ.sdf.org/), w
 
 <!-- TODO: add photo of XPS  -->
 
-> [!TIP]
-> Okay, but which distro? *Just choose one that works for you!* Everyone has different levels of experience, enthusiasm, and philosophies with Linux. I personally use **NixOS**; while the learning curve has been steep, reproducible and declarative builds are well worth the effort to me. For an easier time, **Fedora** is an easy-to-use distro with great package support.
+{{< callout type="info" >}}
+  Okay, but which Linux distro? *Just choose one that works for you!* Everyone has different levels of experience, enthusiasm, and philosophies with Linux. I personally use **NixOS**; while the learning curve has been steep, reproducible and declarative builds are well worth the effort to me. For an easier time, **Fedora** is an easy-to-use distro with great package support.
+{{< /callout >}}
 
 ### The Good
 
