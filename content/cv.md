@@ -4,7 +4,7 @@ toc: true
 author: Kat Nykiel
 ---
 
-[PDF version](cv.pdf)
+[PDF version](../cv.pdf)
 
 ## Education
 
