@@ -48,17 +48,13 @@ Advisor: Dr. Wolfgang Windl
 
 ## Publications
 
-- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., Anasori, B.
-Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. (2023).
-- **Nykiel, K.** Strachan, A. High-throughput density functional theory screening of double transition metal MXene
-precursors. Sci Data 10, 827 (2023).
-- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., Strachan, A. How accurate is density functional theory at
-high pressures? Computational Materials Science 247, 113458 (2025).
+- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. https://doi.org/10.1021/acs.nanolett.2c04287 (2023). 
+- **Nykiel, K.** Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 https://doi.org/10.1038/s41597-023-02755-2 (2023).
+- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 https://doi.org/10.1016/j.commatsci.2024.113458 (2025).
 - Lee, B. H., **Nykiel, K.**, Hallberg, A. E., Rider, B. Strachan, A. Thermodynamic fidelity of generative models for Ising
-system. Journal of Applied Physics 137, 124901 (2025).
-Chen, C.-C., Appleton, R. J., Mishra, S., **Nykiel, K.** - Strachan, A. Discovery of new high-pressure phases – integrat-
-ing high-throughput DFT simulations, graph neural networks, and active learning. npj Comput Mater 11, 191
-(2025).
+system. Journal of Applied Physics 137, 124901 https://doi.org/10.1063/5.0251876 (2025).
+- Chen, C.-C., Appleton, R. J., Mishra, S., **Nykiel, K.** - Strachan, A. Discovery of new high-pressure phases – integrat-
+ing high-throughput DFT simulations, graph neural networks, and active learning. npj Comput Mater 11, 191 https://doi.org/10.1038/s41524-025-01682-7 (2025).
 - **Nykiel, K.**, Wyatt, B., Anasori, B. Strachan, A. Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High
 Temperature Ceramics. Preprint at https://doi.org/10.48550/arXiv.2508.18455 (2025).
 
