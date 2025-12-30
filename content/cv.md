@@ -8,10 +8,11 @@ author: Kat Nykiel
 
 ## Education
 
-**Ph.D. Materials Engineering, Purdue University (in progress)**
-Aug. 2021 - Present
+**Ph.D. Materials Engineering, Purdue University**
+Aug. 2021 - Dec. 2025
 
 - Committee: Dr. Alejandro Strachan, Dr. Arun Mannodi, Dr. Babak Anasori, Dr. Rahim Rahimi
+- Thesis: [Accelerated Discovery of Novel Layered Materials using Computational Quantum Mechanical Modeling and Machine Learning](https://doi.org/10.25394/PGS.30853934.v1)
 - Specialization in Computational Science and Engineering
 
 **B.S. Materials Science & Applied Physics, Ohio State University**
@@ -24,7 +25,7 @@ Aug. 2017 - May 2021
 
 ### Graduate Research, Purdue University  
 
-Aug. 2021 - Present  
+Aug. 2021 - Dec. 2025 
 Advisor: Dr. Alejandro Strachan
 
 - Established group infrastructure for state-of-the-art high-throughput density functional theory (DFT) workflows, with over 90,000 completed calculations stored in a central database
@@ -48,15 +49,15 @@ Advisor: Dr. Wolfgang Windl
 
 ## Publications
 
-- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. https://doi.org/10.1021/acs.nanolett.2c04287 (2023). 
-- **Nykiel, K.** Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 https://doi.org/10.1038/s41597-023-02755-2 (2023).
-- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 https://doi.org/10.1016/j.commatsci.2024.113458 (2025).
-- Lee, B. H., **Nykiel, K.**, Hallberg, A. E., Rider, B. Strachan, A. Thermodynamic fidelity of generative models for Ising
-system. Journal of Applied Physics 137, 124901 https://doi.org/10.1063/5.0251876 (2025).
-- Chen, C.-C., Appleton, R. J., Mishra, S., **Nykiel, K.** - Strachan, A. Discovery of new high-pressure phases – integrat-
-ing high-throughput DFT simulations, graph neural networks, and active learning. npj Comput Mater 11, 191 https://doi.org/10.1038/s41524-025-01682-7 (2025).
 - **Nykiel, K.**, Wyatt, B., Anasori, B. Strachan, A. Exploration of Hexagonal, Layered Carbides and Nitrides as Ultra-High
 Temperature Ceramics. Preprint at https://doi.org/10.48550/arXiv.2508.18455 (2025).
+- Chen, C.-C., Appleton, R. J., Mishra, S., **Nykiel, K.** - Strachan, A. Discovery of new high-pressure phases – integrat-
+ing high-throughput DFT simulations, graph neural networks, and active learning. npj Comput Mater 11, 191 https://doi.org/10.1038/s41524-025-01682-7 (2025).
+- Lee, B. H., **Nykiel, K.**, Hallberg, A. E., Rider, B. Strachan, A. Thermodynamic fidelity of generative models for Ising
+system. Journal of Applied Physics 137, 124901 https://doi.org/10.1063/5.0251876 (2025).
+- Chen, C.-C., Appleton, R. J., **Nykiel, K.**, Mishra, S., Yao, S., Strachan, A. How accurate is density functional theory at high pressures? Computational Materials Science 247, 113458 https://doi.org/10.1016/j.commatsci.2024.113458 (2025).
+- **Nykiel, K.** Strachan, A. High-throughput density functional theory screening of double transition metal MXene precursors. Sci Data 10, 827 https://doi.org/10.1038/s41597-023-02755-2 (2023).
+- Wyatt, B. C., Thakur, A., **Nykiel, K.**, Hood, Z. D., Adhikari, S. P., Pulley, K. K., Highland, W. J., Strachan, A., Anasori, B. Design of Atomic Ordering in Mo2Nb2C3Tx MXenes for Hydrogen Evolution Electrocatalysis. Nano Lett. https://doi.org/10.1021/acs.nanolett.2c04287 (2023). 
 
 ## Teaching Experience
 
@@ -87,16 +88,25 @@ Mar. 2023
 
 - Awarded for presenting at the Spring 2023 Materials Research Data Alliance Conference
 
-## Presentations and Invited Lectures
+**CIGP Fall Symposium Doctoral Talk Award**
+Nov. 2025
 
-Oral Presentation, "Synthesis of Novel Rare-Earth MXenes Using Density Functional Theory and Optimal Experiment Design,” Materials Research Society, Apr. 2025, Seattle, WA.
+- Awarded for the best talk at the Computational Interdisciplinary Graduate Program Fall 2025 Symposium at Purdue University
 
-Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," EPW School on Electron-Phonon Physics, Jun. 2024, Austin, TX.
+## Presentations
 
-Oral Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," Materials Research Society, Apr. 2024, Seattle, WA.
+- Oral Presentation, "Accelerated Prediction of Elastic Tensors in High-Entropy Rock-salt Carbides using an Equivariant Graph Neural Network,” Materials Research Society, Dec. 2025, Boston, MA.
 
-Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials at Purdue Symposium, May 2023, West Lafayette, IN.
+- Oral Presentation, "Exploration of Magnetism in Rare Earth and Mn-doped Double Transition Metal MXenes,” Materials Research Society, Dec. 2025, Boston, MA.
 
-Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Society, Apr. 2023, San Francisco, CA.
+- Oral Presentation, "Synthesis of Novel Rare-Earth MXenes Using Density Functional Theory and Optimal Experiment Design,” Materials Research Society, Apr. 2025, Seattle, WA.
 
-Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Data Alliance Conference, Mar. 2023, Virtual.
+- Poster Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," EPW School on Electron-Phonon Physics, Jun. 2024, Austin, TX.
+
+- Oral Presentation, "Exploration of Stacked MXenes as Precursors to Ultra-High Temperature Ceramics," Materials Research Society, Apr. 2024, Seattle, WA.
+
+- Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials at Purdue Symposium, May 2023, West Lafayette, IN.
+
+- Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Society, Apr. 2023, San Francisco, CA.
+
+- Oral Presentation, "Semi-Supervised Prediction of Double-Transition Metal MXene Stability," Materials Research Data Alliance Conference, Mar. 2023, Virtual.
