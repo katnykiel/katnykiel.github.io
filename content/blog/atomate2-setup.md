@@ -1,5 +1,5 @@
 ---
-title: Setting up atomate2 
+title: Strachan Lab atomate2 Setup 
 toc: true
 breadcrumbs: false
 date: 2024-02-05

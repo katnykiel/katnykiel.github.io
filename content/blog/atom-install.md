@@ -6,7 +6,7 @@ date: 2022-04-29
 ---
 
 {{< callout type="caution" >}}
-Atom has been officially sunset and is no longer maintained. I do not recommend following this guide for new setups — prefer modern, actively maintained editors such as [VS Code](https://code.visualstudio.com/). This post is retained for archival purposes (it never migrated from my old site); I originally wrote it to help move my research group off vim — they now use VS Code.
+Atom has been officially sunset and is no longer maintained. I do not recommend following this guide for new setups; prefer modern, actively maintained editors such as [VS Code](https://code.visualstudio.com/). This post is retained for archival purposes (it never migrated from my old site); I originally wrote it to help move my research group off MobaXterm and PuTTY. They now (mostly) use VS Code.
 {{< /callout >}}
 
 ## What is Atom?
