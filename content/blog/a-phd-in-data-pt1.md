@@ -12,9 +12,7 @@ In December, I was able to complete a dream I've had since I was a child: obtain
 How much time did I actually spend on manuscripts and other graduate school responsibilities?
 {{< /callout >}}
 
-This isn't meant to be a post about how difficult graduate school is. Rather, it's an exploration of how much of it can be measured, and what this measurement reveals. A sort of *data audit* of where I spent my time. 
-
-There's a pervasive feeling of not doing enough that seems inseparable from graduate school. This pressure is a structural issue. While this post won't fix it, performing this data audit help me put into context the work I actually did and the time I actually spent.
+This isn't meant to be a post about how difficult graduate school is. I intended it as an exploration of how much of graduate school can be measured, and what this measurement reveals. The working title for this post was a *data audit*, if that paints a clearer picture. Motivating this was a pervasive feeling of not doing enough that seems inseparable from graduate school. This is a structural issue; while this post won't fix it, performing this data audit help me put into context the work I actually did and the time I actually spent.
 
 First, I explored which data I have available. At the start of my PhD, I used a simple TODO list to track my tasks, with each item estimated to take one hour of focused work. As I became pulled into a dozen disparate projects, I found that a single TODO list became insufficient for this complexity and shifted to a personal scrum system. This forced me to become more reliable at estimating how much time a given task would take me, and I credit this system with keeping me organized and sane throughout grad school. I've used the estimated time for each task as the primary data source, and grouped each task into one of several categories.
 
@@ -29,10 +27,6 @@ While this is not a perfect metric of how many hours I worked, it is a reasonabl
 
 ![Histogram of number of hours worked per week, separated into coursework, various papers, and professional responsibilities](hours-per-task.png)
 
-<!-- ```html
-<iframe src="items_by_project_histogram.html" style="width:100%;height:600px;border:none;"></iframe>
-``` -->
-
 Alternatively, you can include raw HTML directly in markdown files, so just paste your HTML code inline if it's short enough.
 
 In total, I recorded over 6200 hours over four years and four months. The average works out to 30 hours per week; however, this average is skewed due to the period between July 2022 and January 2023 when I was transitioning between my TODO list and my scrum system. Removing these six months, the average increases to 32 hours per week, which sounds about right by my memory. 
@@ -43,10 +37,6 @@ To me, the more interesting analysis instead lies in the percentage of time spen
 
 ![Scatter plot of cumulative number of hours worked on each manuscript](paper-timeline.png)
 
-<!-- ```html
-<iframe src="paper_timeline_cumulative.html" style="width:100%;height:600px;border:none;"></iframe>
-``` -->
-
 Here, the X indicates that the paper has been published. I additionally removed one of the papers which I showed on the previous histogram (paper 2), as I was second author on this manuscript, and it was published with only 200 hours. While this is a small sample size, it would suggest that *first-author papers take about 800 hours from start to completion, in about 30 months*. The yellow line (paper 4) is nearing submission, adding further support for this hypothesis. This is way more hours and a much longer timeline than I would have expected! Presumably, this number goes down as graduate students become more familiar with their subject and the research process, but until I publish my other manuscripts I don't have the data.
 
-Taking this hypothesis of 800 hours as true for a moment, I did some quick back-of-the-napkin math. If PhD students are expected to write three first-author papers, as was the expectation in my group, and each paper takes 800 hours, a PhD in four years would devote 2400 to these papers alone. These would all need to be started within their first year. Extending this, if we generously assume 1200 hours on professional obligations (I logged 1600), 400 hours on coursework (I logged 600), and perform no research which is later abandoned, this sums to 4000 hours and equates to 20 hours a week. This represents a theoretical lower bound of responsibility that a perfect student, with no failed projects, would require. Coincidentally, this is the estimate which is used to determine graduate student stipends (20 hours per week). I ended up working 50% more than this, and I would venture that most graduate students I know work even more than I did. It's an unreasonable system. Even for our perfect student, there's no time left to write and defend a dissertation.
+Taking this hypothesis of 800 hours as true for a moment, I did some quick back-of-the-envelope math. If PhD students are expected to write three first-author papers, as was the expectation in my group, and each paper takes 800 hours, a PhD in four years would devote 2400 to these papers alone. These would all need to be started within their first year. Extending this, if we generously assume 1200 hours on professional obligations (I logged 1600), 400 hours on coursework (I logged 600), and perform no research which is later abandoned, this sums to 4000 hours and equates to 20 hours a week. This represents a theoretical lower bound of responsibility that a perfect student, with no failed projects, would require. Coincidentally, this is the estimate which is used to determine graduate student stipends (20 hours per week). I ended up working 50% more than this, and I would venture that most graduate students I know work even more than I did. It's an unreasonable system. Even for our perfect student, there's no time left to write and defend a dissertation.
