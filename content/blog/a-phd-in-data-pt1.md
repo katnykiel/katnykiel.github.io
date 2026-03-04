@@ -6,7 +6,7 @@ breadcrumbs: false
 date: 2026-03-04
 ---
 
-In December, I was able to complete a dream I've had since I was a child: obtaining my PhD. I successfully defended my [thesis](https://hammer.purdue.edu/articles/thesis/Accelerated_Discovery_of_Novel_Layered_Materials_using_Computational_Quantum_Mechanical_Modeling_and_Machine_Learning/30853934?file=60454859), in which I used computational quantum mechanics and machine learning to discover new atomically-thin materials. It's been quite an arduous journey to get across the finish line, and it's taken a toll on me. Consequently, I've taken some time off to focus on my health, recenter my priorities, and look towards the next steps in my career. It therefore feels right at this moment to reflect on my time in grad school. While there are many possible avenues for this reflection, here I want to reflect on the *data* collected throughout my PhD. I expect to write later on more the qualitative aspects of graduate school. Because there's a lot of data, I will be splitting this post up into two parts. This first part focuses on the manuscript-writing process, and asks the following questions:
+In December, I was able to complete a dream I've had since I was a child: obtaining my PhD. I successfully defended my [thesis](https://hammer.purdue.edu/articles/thesis/Accelerated_Discovery_of_Novel_Layered_Materials_using_Computational_Quantum_Mechanical_Modeling_and_Machine_Learning/30853934?file=60454859), in which I used computational quantum mechanics and machine learning to discover new atomically-thin materials. It's been quite an arduous journey to get across the finish line, and it's taken a toll on me. Consequently, I've taken some time off to focus on my health, recenter my priorities, and look towards the next steps in my career. It therefore feels right at this moment to reflect on my time in grad school. While there are many possible avenues for this reflection, here I want to reflect on the *data* collected throughout my PhD. I expect to write later on more the qualitative aspects of graduate school. Because there's a lot of data, I will be splitting this post up into two parts. This first part focuses on the manuscript-writing process, and asks the following question:
 
 {{< callout >}}
 How much time did I actually spend on manuscripts and other graduate school responsibilities?
@@ -27,7 +27,13 @@ First, I explored which data I have available. At the start of my PhD, I used a 
 
 While this is not a perfect metric of how many hours I worked, it is a reasonable proxy. Notably, it misses hours spent attending lectures, and I don't currently have a good way of accounting for this. The hours I've spent over the last few years, divided among these categories, are shown below as the number of hours spent per week on each project, averaged over each month of my PhD. 
 
-![Histogram of number of hours worked per week, separated into coursework, various papers, and professional responsibilities](hours-per-task.png)
+<!-- ![Histogram of number of hours worked per week, separated into coursework, various papers, and professional responsibilities](hours-per-task.png) -->
+
+```html
+<iframe src="items_by_project_histogram.html" style="width:100%;height:600px;border:none;"></iframe>
+```
+
+Alternatively, you can include raw HTML directly in markdown files, so just paste your HTML code inline if it's short enough.
 
 In total, I recorded over 6200 hours over four years and four months. The average works out to 30 hours per week; however, this average is skewed due to the period between July 2022 and January 2023 when I was transitioning between my TODO list and my scrum system. Removing these six months, the average increases to 32 hours per week, which sounds about right by my memory. 
 
@@ -35,7 +41,11 @@ I initially hesitated to share this result, as some may look at this number and 
 
 To me, the more interesting analysis instead lies in the percentage of time spent on each obligation. In total, I spent 60% of time on manuscripts, 10% on coursework, 25% on professional responsibilities, and 5% on abandoned projects. This 60% grew towards the end of my PhD, and mostly came from performing the research itself. While I don't have the data to determine how much was spent on manuscript-writing vs. research, I would estimate a ratio of 1:3 or so. Notably, I only worked on 1–2 papers for the first three years of my PhD, but simultaneously 4-5 in the final year and a half. This seems to be fairly typical among my peers. The 5% of my time spent on abandoned projects was low to me; I expected this to be a lot higher, as graduate school can regularly feel like a continuous stream of failures. However, knowing that only 5% of my time was spent without resulting in a manuscript was a comforting reminder that *my time in graduate school may have been more successful than I internalized*. To further analyze the manuscript-writing process, I overlaid the cumulative time spent on each manuscript, as shown below.
 
-![Scatter plot of cumulative number of hours worked on each manuscript](paper-timeline.png)
+<!-- ![Scatter plot of cumulative number of hours worked on each manuscript](paper-timeline.png) -->
+
+```html
+<iframe src="paper_timeline_cumulative.html" style="width:100%;height:600px;border:none;"></iframe>
+```
 
 Here, the X indicates that the paper has been published. I additionally removed one of the papers which I showed on the previous histogram (paper 2), as I was second author on this manuscript, and it was published with only 200 hours. While this is a small sample size, it would suggest that *first-author papers take about 800 hours from start to completion, in about 30 months*. The yellow line (paper 4) is nearing submission, adding further support for this hypothesis. This is way more hours and a much longer timeline than I would have expected! Presumably, this number goes down as graduate students become more familiar with their subject and the research process, but until I publish my other manuscripts I don't have the data.
 
