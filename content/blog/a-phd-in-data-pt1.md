@@ -27,11 +27,11 @@ First, I explored which data I have available. At the start of my PhD, I used a 
 
 While this is not a perfect metric of how many hours I worked, it is a reasonable proxy. Notably, it misses hours spent attending lectures, and I don't currently have a good way of accounting for this. The hours I've spent over the last few years, divided among these categories, are shown below as the number of hours spent per week on each project, averaged over each month of my PhD. 
 
-![Histogram of number of hours worked per week, separated into coursework, various papers, and professional responsibilities](hours-per-task.png)
+<!-- ![Histogram of number of hours worked per week, separated into coursework, various papers, and professional responsibilities](hours-per-task.png) -->
 
-<!-- ```html
+```html
 <iframe src="items_by_project_histogram.html" style="width:100%;height:600px;border:none;"></iframe>
-``` -->
+```
 
 Alternatively, you can include raw HTML directly in markdown files, so just paste your HTML code inline if it's short enough.
 
@@ -41,11 +41,11 @@ I initially hesitated to share this result, as some may look at this number and 
 
 To me, the more interesting analysis instead lies in the percentage of time spent on each obligation. In total, I spent 60% of time on manuscripts, 10% on coursework, 25% on professional responsibilities, and 5% on abandoned projects. This 60% grew towards the end of my PhD, and mostly came from performing the research itself. While I don't have the data to determine how much was spent on manuscript-writing vs. research, I would estimate a ratio of 1:3 or so. Notably, I only worked on 1–2 papers for the first three years of my PhD, but simultaneously 4-5 in the final year and a half. This seems to be fairly typical among my peers. The 5% of my time spent on abandoned projects was low to me; I expected this to be a lot higher, as graduate school can regularly feel like a continuous stream of failures. However, knowing that only 5% of my time was spent without resulting in a manuscript was a comforting reminder that *my time in graduate school may have been more successful than I internalized*. To further analyze the manuscript-writing process, I overlaid the cumulative time spent on each manuscript, as shown below.
 
-![Scatter plot of cumulative number of hours worked on each manuscript](paper-timeline.png)
-<!-- 
+<!-- ![Scatter plot of cumulative number of hours worked on each manuscript](paper-timeline.png) -->
+
 ```html
 <iframe src="paper_timeline_cumulative.html" style="width:100%;height:600px;border:none;"></iframe>
-``` -->
+```
 
 Here, the X indicates that the paper has been published. I additionally removed one of the papers which I showed on the previous histogram (paper 2), as I was second author on this manuscript, and it was published with only 200 hours. While this is a small sample size, it would suggest that *first-author papers take about 800 hours from start to completion, in about 30 months*. The yellow line (paper 4) is nearing submission, adding further support for this hypothesis. This is way more hours and a much longer timeline than I would have expected! Presumably, this number goes down as graduate students become more familiar with their subject and the research process, but until I publish my other manuscripts I don't have the data.
 
