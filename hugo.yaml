@@ -11,9 +11,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 6
+  
 
   # enable hextra syntax highlight
   highlight:
