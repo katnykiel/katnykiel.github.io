@@ -3,6 +3,6 @@ title: About
 type: about
 ---
 
-Hi there! I'm a PhD candidate in Dr. Alejandro Strachan's lab at Purdue University. My research interests include high-throughput density functional theory, local large-language models, and 2D materials. Outside of research, I enjoy reading, making specialty coffee, and playing cello.
+Hi there! I'm a computational materials scientist, and I recently completed my PhD in Dr. Alejandro Strachan's lab at Purdue University. My research interests include automated high-throughput density functional theory workflows, ML-driven materials discovery, and local large language models. Outside of research, I enjoy reading, cooking, playing cello, and getting out into nature.
 
-![kat nykiel pfp](profile.png?width=100px)
+![kat nykiel pfp](profile.png?width=50px)
