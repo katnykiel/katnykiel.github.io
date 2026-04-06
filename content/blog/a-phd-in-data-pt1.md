@@ -6,6 +6,8 @@ breadcrumbs: false
 date: 2026-03-04
 ---
 
+![Written by a human](written-by-a-human.svg)
+
 In December, I was able to complete a dream I've had since I was a child: obtaining my PhD. I successfully defended my [thesis](https://hammer.purdue.edu/articles/thesis/Accelerated_Discovery_of_Novel_Layered_Materials_using_Computational_Quantum_Mechanical_Modeling_and_Machine_Learning/30853934?file=60454859), in which I used computational quantum mechanics and machine learning to discover new atomically-thin materials. It's been quite an arduous journey to get across the finish line, and it's taken a toll on me. Consequently, I've taken some time off to focus on my health, recenter my priorities, and look towards the next steps in my career. It therefore feels right at this moment to reflect on my time in grad school. While there are many possible avenues for this reflection, here I want to reflect on the *data* collected throughout my PhD. I expect to write later on more the qualitative aspects of graduate school. Because there's a lot of data, I will be splitting this post up into two parts. This first part focuses on the manuscript-writing process, and asks the following question:
 
 {{< callout >}}

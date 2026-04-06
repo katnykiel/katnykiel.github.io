@@ -5,6 +5,10 @@ breadcrumbs: false
 date: 2025-09-08
 ---
 
+
+![Written by a human](written-by-a-human.svg)
+
+
 Throughout the four years of my PhD in computational materials science at Purdue University, I've spent absurd amounts of time with my computer. A back-of-the-envelope calculation would suggest it's been over 80,000 hours! Knowing that I'll be spending this inordinate amount of time this way, and motivated by [this XKCD comic](https://xkcd.com/1205/), I've invested a lot of time reducing friction in my computer use. To name a few of these optimizations: adopting [alternative keyboard layouts](https://colemak.com/), learning [competitive typing](https://monkeytype.com/profile/allokate), using a package manager, and using tiling window managers have all saved massive amounts of time. However, like many computer geeks before me, I repeatedly find myself asking one question over and over: 
 
 {{< callout >}}
