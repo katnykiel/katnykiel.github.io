@@ -7,7 +7,7 @@ Welcome to my website! Check out the areas below to learn more about me.
 
 {{< callout type="warning" >}}
 I'm currently migrating to a new domain. While I wait for an SSL certificate to be issued, your browser may display a "Not Secure" warning in the meantime. The site is safe to browse, just hang tight while things propagate!
-{{< callout >}}
+{{< /callout >}}
 
 ## Explore
 
