@@ -1,5 +1,5 @@
 ---
-title: Review\: A 6 Month Hiatus from Academia
+title: A 6 Month Hiatus from Academia
 toc: false
 draft: true
 breadcrumbs: false
