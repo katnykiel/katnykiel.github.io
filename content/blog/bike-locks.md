@@ -8,7 +8,7 @@ date: 2026-06-20
 
 Did you know that one in seven bikes parked at Purdue University can be walked away with in under a minute?
 
-In my few years living in West Lafayette, I've noticed a lot of bike locks which are **cosmetic**; that is, locks which appear sound at first glance but are topologically insecure on closer inspection. I spent a day meandering around Purdue University's campus, recording my tally and photographing the different configurations. In total, I collected data on 270 bikes, and found roughly 6% of them to be entirely cosmetic or unlocked, with 15% removable with basic tools. See the chart below for a breakdown.
+In my few years living in West Lafayette, I've noticed a lot of bike locks which are **cosmetic**; that is, locks which appear sound at first glance but are topologically insecure on closer inspection. I spent a day meandering around Purdue University's campus, recording a tally and photographing the different configurations. In total, I collected data on 270 bikes, and found roughly 6% of them to be entirely cosmetic or unlocked, with 15% removable with basic tools. See the chart below for a breakdown.
 
 ![pie chart of bike lock categories](bike-locks.png)
 
