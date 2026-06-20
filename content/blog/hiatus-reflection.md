@@ -5,7 +5,6 @@ draft: true
 breadcrumbs: false
 date: 1970-01-01
 ---
-
 ideas:
 
 - talk about the job search, how I am accepting this postdoc in berlin to work on autonomous labs, which is work that i wanted to do all throughout my PhD, with a great advisor and i've never lived outside the country, so exciting

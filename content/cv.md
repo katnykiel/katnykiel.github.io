@@ -3,7 +3,6 @@ title:  Curriculum Vitae
 toc: true
 author: Kat Nykiel
 ---
-
 [PDF version](../cv.pdf)
 
 ## Research Profile
