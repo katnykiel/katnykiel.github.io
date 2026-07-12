@@ -27,6 +27,8 @@ I started by using Jira for scrum, as they offer a generous free cloud service. 
 
 After a few weeks of development, I feel comfortable sharing this for others to use. It's primarily been tested on macOS, NixOS, and Arch, but it should generally work anywhere Rust is installed. I've shared some screenshots of the four views below, with the first two using demo data and the latter two using historical Jira data I've imported into this system.
 
+Check it out [here](https://github.com/katnykiel/scrumtui), or in the screenshots below.
+
 ![screenshot of scrumtui with sprint/backlog open](scrumtui-backlog.png)
 
 ![screenshot of kanban view](scrumtui-kanban.png)
