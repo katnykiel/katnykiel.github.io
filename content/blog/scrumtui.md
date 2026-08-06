@@ -6,6 +6,14 @@ breadcrumbs: false
 date: 2026-07-12
 ---
 
+Edit: After some reflection, I want to acknowledge that this post may come across as endorsing the kind of 'hustle culture' that is so often toxic, in academia and elsewhere. I therefore feel it necessary to say that I believe that good mental health and reasonable work-life boundaries are crucial, and an all-in focus on productivity comes at the expense of these two. 
+
+I made scrumtui and wrote this post to share how I used this organizational system to help myself focus my time into meaning-rich, impactful work. This is mostly following the principles of *deep work*, [as laid out by Cal Newport](https://calnewport.com/the-book-facebook-doesnt-want-you-to-read/?utm_source=chatgpt.com). The deep work philosophy could again be seen merely as 'hustle culture,' but I think that some nuance is helpful here. As librarian Aerith Netzer points out in her [excellent review of this book](https://www.kyberwarlord.com/posts/deep-work/),
+
+> Deep Work is—on its surface—a self-help book oriented towards MBA-types who have an obsession with “creating value.” While it is true that the text does give much attention to mythologized accounts of the greatest companies being created by super-human individuals, it is also true that this book provides a philosophical approach to how work should be done that is indeed relevant to those who are skeptical of the “value-creation process” so often evangelized in introductory business-management courses.
+
+---
+
 A few years ago, a colleague proposed to me that research, at its core, is an exercise in information organization. They believed that doing high quality research via the process of reading papers, performing experiments, and publishing results does not require talent or focus, but rather organization. Unable to evaluate the veracity of this claim at that point of my PhD, I took it to heart, and have spent a perhaps inordinate amount of my time on organization. I hope that [my past post](./a-phd-in-data) on the data I collected throughout my PhD lends some evidence to this. 
 
 One avenue of organization I devoted a lot of thought to was how I should keep track of the work I need to do. Some people use sticky notes, pen-and-paper TODO lists, or specialized apps. For a while, I used a digital TODO list (read: a markdown file), but it became overwhelming as issues piled up and I became unable to distinguish what work I needed to prioritize. After exploring other systems, I finally landed on scrum. Put simply, scrum is a project management system where work is broken down into tasks, which are completed within time-boxed iterations, called *sprints*. There's a lot of jargon in scrum, but to keep it simple:
