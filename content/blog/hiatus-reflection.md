@@ -31,6 +31,8 @@ To end on a lighter note, I think that my favorite endeavor on my hiatus has bee
 
 That said, I should also mention that I leaned heavily on America's Test Kitchen's *Vegetarian Cookbook* and Deborah Madison's *Vegetarian Cooking for Everyone*. I've shared the results of some of my favorite recipes from these books (and elsewhere) below. Enjoy! 
 
+---
+
 Sushi! I did my best to imitate a local sushi restaurant by roasting some sliced sweet potatoes, then coating in panko breadcrumbs and frying to get them nice and crispy. With some cream cheese and teriyaki, it is absolutely delicious and my girlfriend's favorite dish of mine. She made some onigiri!
 
 ![a plate with five onigiri, as well as two metal containers each with 16 sweet potato sushi rolls ](9C0E4452-2596-4B56-9E14-13BB161EBA40_1_105_c.jpeg)
