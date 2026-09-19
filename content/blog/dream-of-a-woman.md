@@ -6,7 +6,7 @@ breadcrumbs: false
 date: 2026-09-19
 ---
 
-## A Dream of a Woman
+![a-dream-of-a-woman-cover](dream-of-a-woman-cover.png)
 
 *A Dream of a Woman*, Casey Plett's collection of short stories centering trans women, was first recommended to me by a friend a few years ago. It sat on my reading list for a while, and when I finally worked through my backlog and it came time to read this one, I was unsure how to feel about it. *Another book about being trans?* I had recently read *Nevada*; *Detransition, Baby*; *Stag Dance*; *Females*; *Orlando*; *Gender/Fucking*; *Little Blue Encyclopedia*: most of which were overwhelming in their emotional intensity. I vividly remember reading the ending of *Nevada* at a cafe in Greenwich Village, silently screaming at the characters in the book. By then I was seeing transgender themes in other genres too; I read Mary Shelley's *Frankenstein*, after reading Susan Stryker's *My Words to Victor Frankenstein Above the Village of Chamounix*, and both remain my recommendation to anyone wanting to understand the feeling of being trans.
 
