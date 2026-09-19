@@ -1,5 +1,5 @@
 ---
-title: Scrumtui, A Local Scrum System
+title: Scrumtui, A Local TODO System
 toc: false
 draft: false
 breadcrumbs: false
