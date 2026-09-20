@@ -24,6 +24,7 @@ When I finished this book, its characters and themes lingered with me. Continuin
 
 I found myself moved by this, and as I was between jobs with time and energy to spare, I started a book club with some friends to foster a shared attention, *to actually get together*. After some discussion, we chose *A Dream of a Woman* as our first book. While discussing Gemma's Wareniki and her musings on community, my girlfriend proposed that the entire book is in fact just an elaborate introduction for a recipe. I took the bait: I recreated the recipe from Gemma's instructions and invited my book club over to share it. As the idiom goes, community is a verb; the recipe was my small attempt to practice it.
 
+![my book club!](9A0B5116-9C39-4ACB-B855-5975005F66B1_1_105_c.jpeg)
 ![Wareniki, with sage+onion+browned butter](41D35D97-92BE-4A4C-AD64-03FE74E7191D_1_201_a.jpeg)
 
 ## Mennonite Supper
